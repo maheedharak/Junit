@@ -20,6 +20,8 @@
         <module>AssertAll</module>
         <module>NestedClass</module>
         <module>RepeatedTests</module>
+        <module>Tags</module>
+        <module>TestInfoAndReport</module>
     </modules>
 
     <properties>
